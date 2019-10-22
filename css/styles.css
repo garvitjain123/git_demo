@@ -62,3 +62,16 @@ body{
 	left: 0;
 	min-height: 300px;
 }
+.white-cl{
+	color: white;
+}
+.pd-5p{
+	padding: 5px 50px;
+}
+
+.pd-5p:hover {
+	color: white;
+}
+.pd-0{
+	padding: 0
+}
