@@ -47,4 +47,21 @@ body {
 #carouselButtons {
   right: 0px;
   position: absolute;
-  bottom: 0px; }
+  bottom: 0px;
+  z-index: 1; }
+
+.pd-0 {
+  padding: 0; }
+
+.head {
+  background: #512DA8;
+  color: floralwhite; }
+
+.modalBody {
+  background: #D1C4E9; }
+
+.cl-white {
+  color: white; }
+
+.cl-white:hover {
+  color: white; }

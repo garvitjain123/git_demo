@@ -70,4 +70,25 @@ body{
 	right: 0px;
 	position: absolute;
 	bottom: 0px;
+	z-index: 1;
+}
+
+.pd-0{
+	padding: 0;
+}
+
+.head{
+	background: $background-dark;
+	color: floralwhite;
+}
+.modalBody{
+	background: $background-pale;	
+}
+
+.cl-white{
+	color : white;
+}
+
+.cl-white:hover{
+	color: white;
 }
